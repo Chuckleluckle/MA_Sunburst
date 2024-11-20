@@ -1,0 +1,63 @@
+{
+ "name": "root",
+ "children": [
+  {
+   "name": "health",
+   "children": [
+    {
+     "name": "nutrition",
+     "children": [
+      {"name": "Fruits", "value": 3200},
+      {"name": "Vegetables", "value": 4100},
+      {"name": "Grains", "value": 3700}
+     ]
+    },
+    {"name": "fitness", "value": 5400}
+   ]
+  },
+  {
+   "name": "education",
+   "children": [
+    {
+     "name": "schools",
+     "children": [
+      {"name": "Primary", "value": 6300},
+      {"name": "Secondary", "value": 5800}
+     ]
+    },
+    {"name": "universities", "value": 7200}
+   ]
+  },
+  {
+   "name": "entertainment",
+   "value": 9500
+  },
+  {
+   "name": "sports",
+   "children": [
+    {
+     "name": "indoor",
+     "children": [
+      {"name": "Chess", "value": 1200},
+      {"name": "Table Tennis", "value": 1800}
+     ]
+    },
+    {
+     "name": "outdoor",
+     "children": [
+      {"name": "Soccer", "value": 8600},
+      {"name": "Basketball", "value": 5400}
+     ]
+    },
+    {"name": "e-sports", "value": 3100}
+   ]
+  },
+  {
+   "name": "technology",
+   "children": [
+    {"name": "AI", "value": 9200},
+    {"name": "Cybersecurity", "value": 7600}
+   ]
+  }
+ ]
+}

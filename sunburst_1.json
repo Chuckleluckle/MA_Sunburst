@@ -1,0 +1,85 @@
+{
+ "name": "root",
+ "children": [
+  {
+   "name": "technology",
+   "children": [
+    {
+     "name": "software",
+     "children": [
+      {"name": "OperatingSystems", "value": 7800},
+      {"name": "Databases", "value": 6200},
+      {"name": "WebServers", "value": 4900}
+     ]
+    },
+    {
+     "name": "hardware",
+     "children": [
+      {"name": "Processors", "value": 8900},
+      {"name": "Memory", "value": 7400},
+      {"name": "Storage", "value": 5600}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "science",
+   "children": [
+    {
+     "name": "physics",
+     "children": [
+      {"name": "Mechanics", "value": 4200},
+      {"name": "Thermodynamics", "value": 3400},
+      {"name": "Optics", "value": 2700}
+     ]
+    },
+    {
+     "name": "biology",
+     "children": [
+      {"name": "Genetics", "value": 5400},
+      {"name": "Ecology", "value": 3200},
+      {"name": "Microbiology", "value": 3900}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "arts",
+   "children": [
+    {
+     "name": "visualArts",
+     "children": [
+      {"name": "Painting", "value": 4800},
+      {"name": "Sculpture", "value": 3700}
+     ]
+    },
+    {
+     "name": "performingArts",
+     "children": [
+      {"name": "Theatre", "value": 5200},
+      {"name": "Music", "value": 6100}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "business",
+   "children": [
+    {
+     "name": "finance",
+     "children": [
+      {"name": "Investing", "value": 7900},
+      {"name": "Banking", "value": 6800}
+     ]
+    },
+    {
+     "name": "management",
+     "children": [
+      {"name": "ProjectManagement", "value": 5300},
+      {"name": "HumanResources", "value": 4700}
+     ]
+    }
+   ]
+  }
+ ]
+}

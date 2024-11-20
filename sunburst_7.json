@@ -1,0 +1,164 @@
+{
+ "name": "root",
+ "children": [
+  {
+   "name": "nature",
+   "children": [
+    {
+     "name": "flora",
+     "children": [
+      {
+       "name": "trees",
+       "children": [
+        {
+         "name": "Evergreens",
+         "children": [
+          {"name": "Pine", "value": 1200},
+          {"name": "Spruce", "value": 1100}
+         ]
+        },
+        {
+         "name": "Deciduous",
+         "children": [
+          {"name": "Oak", "value": 900},
+          {"name": "Maple", "value": 950}
+         ]
+        }
+       ]
+      },
+      {
+       "name": "flowers",
+       "children": [
+        {"name": "Roses", "value": 1400},
+        {"name": "Tulips", "value": 1300},
+        {"name": "Sunflowers", "value": 1200}
+       ]
+      }
+     ]
+    },
+    {
+     "name": "fauna",
+     "children": [
+      {
+       "name": "mammals",
+       "children": [
+        {
+         "name": "Carnivores",
+         "children": [
+          {"name": "Lions", "value": 1800},
+          {"name": "Tigers", "value": 1600}
+         ]
+        },
+        {
+         "name": "Herbivores",
+         "children": [
+          {"name": "Elephants", "value": 2000},
+          {"name": "Giraffes", "value": 1900}
+         ]
+        }
+       ]
+      },
+      {
+       "name": "birds",
+       "children": [
+        {"name": "Eagles", "value": 1500},
+        {"name": "Parrots", "value": 1400}
+       ]
+      },
+      {
+       "name": "reptiles",
+       "value": 800
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "human endeavors",
+   "children": [
+    {
+     "name": "arts",
+     "children": [
+      {
+       "name": "music",
+       "children": [
+        {
+         "name": "Instruments",
+         "children": [
+          {"name": "Guitar", "value": 1000},
+          {"name": "Piano", "value": 1200}
+         ]
+        },
+        {
+         "name": "Genres",
+         "value": 500
+        }
+       ]
+      },
+      {
+       "name": "visual arts",
+       "value": 700
+      }
+     ]
+    },
+    {
+     "name": "sciences",
+     "children": [
+      {
+       "name": "physics",
+       "children": [
+        {
+         "name": "Theoretical",
+         "children": [
+          {"name": "String Theory", "value": 3000},
+          {"name": "Quantum Mechanics", "value": 2900}
+         ]
+        },
+        {
+         "name": "Applied",
+         "value": 1800
+        }
+       ]
+      },
+      {
+       "name": "biology",
+       "children": [
+        {"name": "Genetics", "value": 2200},
+        {"name": "Ecology", "value": 2100}
+       ]
+      }
+     ]
+    },
+    {
+     "name": "history",
+     "value": 600
+    }
+   ]
+  },
+  {
+   "name": "technology",
+   "children": [
+    {
+     "name": "AI",
+     "children": [
+      {
+       "name": "Machine Learning",
+       "children": [
+        {"name": "Supervised", "value": 3000},
+        {"name": "Unsupervised", "value": 2600}
+       ]
+      },
+      {
+       "name": "Deep Learning",
+       "value": 3500
+      }
+     ]
+    },
+    {
+     "name": "Robotics",
+     "value": 4000
+    }
+   ]
+  }
+ ]
+}

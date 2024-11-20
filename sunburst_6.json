@@ -1,0 +1,141 @@
+{
+ "name": "root",
+ "children": [
+  {
+   "name": "life",
+   "children": [
+    {
+     "name": "health",
+     "children": [
+      {
+       "name": "nutrition",
+       "children": [
+        {
+         "name": "Fruits",
+         "children": [
+          {"name": "Apples", "value": 1200},
+          {"name": "Oranges", "value": 1500},
+          {"name": "Berries", "value": 1400}
+         ]
+        },
+        {
+         "name": "Vegetables",
+         "children": [
+          {"name": "Carrots", "value": 800},
+          {"name": "Broccoli", "value": 900},
+          {"name": "Spinach", "value": 700}
+         ]
+        }
+       ]
+      },
+      {
+       "name": "fitness",
+       "children": [
+        {
+         "name": "cardio",
+         "children": [
+          {"name": "Running", "value": 1800},
+          {"name": "Cycling", "value": 1700}
+         ]
+        },
+        {
+         "name": "strength",
+         "children": [
+          {"name": "Weightlifting", "value": 2200},
+          {"name": "Resistance Bands", "value": 1600}
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "education",
+     "children": [
+      {
+       "name": "schools",
+       "children": [
+        {
+         "name": "Primary",
+         "children": [
+          {"name": "Grade 1", "value": 500},
+          {"name": "Grade 2", "value": 600}
+         ]
+        },
+        {
+         "name": "Secondary",
+         "children": [
+          {"name": "Grade 9", "value": 800},
+          {"name": "Grade 10", "value": 900}
+         ]
+        }
+       ]
+      },
+      {
+       "name": "universities",
+       "children": [
+        {
+         "name": "Engineering",
+         "children": [
+          {"name": "Mechanical", "value": 1100},
+          {"name": "Electrical", "value": 1300}
+         ]
+        },
+        {
+         "name": "Medicine",
+         "children": [
+          {"name": "Dentistry", "value": 1400},
+          {"name": "Surgery", "value": 1700}
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "technology",
+   "children": [
+    {
+     "name": "AI",
+     "children": [
+      {
+       "name": "Machine Learning",
+       "children": [
+        {"name": "Supervised", "value": 4000},
+        {"name": "Unsupervised", "value": 3600}
+       ]
+      },
+      {
+       "name": "Deep Learning",
+       "children": [
+        {"name": "CNN", "value": 3200},
+        {"name": "RNN", "value": 2900}
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Cybersecurity",
+     "children": [
+      {
+       "name": "Network Security",
+       "children": [
+        {"name": "Firewalls", "value": 1500},
+        {"name": "Encryption", "value": 1800}
+       ]
+      },
+      {
+       "name": "Application Security",
+       "children": [
+        {"name": "Penetration Testing", "value": 2000},
+        {"name": "Vulnerability Scanning", "value": 1900}
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
