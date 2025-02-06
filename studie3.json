@@ -1,0 +1,110 @@
+{
+ "name": "root",
+ "children": [
+  {
+   "name": "vitality",
+   "children": [
+    {
+     "name": "nourishment",
+     "children": [
+      {"name": "Citrus", "value": 3200},
+      {"name": "Root Vegetables", "value": 4100},
+      {"name": "Cereals", "value": 3700},
+      {"name": "Dairy", "value": 4400}
+     ]
+    },
+    {"name": "movement", "value": 5400},
+    {"name": "emotional well-being", "value": 6100}
+   ]
+  },
+  {
+   "name": "knowledge",
+   "children": [
+    {
+     "name": "academia",
+     "children": [
+      {"name": "Grade School", "value": 6300},
+      {"name": "Junior High", "value": 5800},
+      {"name": "Adaptive Education", "value": 3500}
+     ]
+    },
+    {"name": "higher learning", "value": 7200},
+    {"name": "digital education", "value": 4600}
+   ]
+  },
+  {
+   "name": "recreation",
+   "value": 9500
+  },
+  {
+   "name": "games",
+   "children": [
+    {
+     "name": "inside activities",
+     "children": [
+      {"name": "Checkers", "value": 1200},
+      {"name": "Air Hockey", "value": 1800},
+      {"name": "Darts", "value": 2300}
+     ]
+    },
+    {
+     "name": "outside activities",
+     "children": [
+      {"name": "Rugby", "value": 8600},
+      {"name": "Netball", "value": 5400},
+      {"name": "Badminton", "value": 6700}
+     ]
+    },
+    {"name": "virtual gaming", "value": 3100},
+    {"name": "marine sports", "value": 4900}
+   ]
+  },
+  {
+   "name": "tech",
+   "children": [
+    {"name": "Neural Networks", "value": 9200},
+    {"name": "InfoSec", "value": 7600},
+    {"name": "Smart Systems", "value": 8400},
+    {"name": "Software Engineering", "value": 6100}
+   ]
+  },
+  {
+   "name": "wealth",
+   "children": [
+    {"name": "Equities", "value": 8500},
+    {"name": "Digital Assets", "value": 4200},
+    {"name": "Savings & Spending", "value": 5400}
+   ]
+  },
+  {
+   "name": "sustainability",
+   "children": [
+    {"name": "Environmental Impact", "value": 7300},
+    {"name": "Green Tech", "value": 6200},
+    {"name": "Biodiversity", "value": 5200}
+   ]
+  },
+  {
+   "name": "exploration",
+   "value": 6700
+  },
+  {
+   "name": "gastronomy",
+   "children": [
+    {"name": "Home Cooking", "value": 3300},
+    {"name": "Fine Dining", "value": 4800},
+    {"name": "Street Vendors", "value": 2500}
+   ]
+  },
+  {
+   "name": "research",
+   "children": [
+    {"name": "Space Science", "value": 9100},
+    {"name": "Genetics", "value": 7400},
+    {"name": "Theoretical Physics", "value": 8300},
+    {"name": "Organic Chemistry", "value": 7200},
+    {"name": "Earth Studies", "value": 5100}
+   ]
+  }
+ ]
+}

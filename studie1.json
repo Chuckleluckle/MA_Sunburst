@@ -1,0 +1,110 @@
+{
+ "name": "root",
+ "children": [
+  {
+   "name": "health",
+   "children": [
+    {
+     "name": "nutrition",
+     "children": [
+      {"name": "Fruits", "value": 3200},
+      {"name": "Vegetables", "value": 4100},
+      {"name": "Grains", "value": 3700},
+      {"name": "Proteins", "value": 4400}
+     ]
+    },
+    {"name": "fitness", "value": 5400},
+    {"name": "mental health", "value": 6100}
+   ]
+  },
+  {
+   "name": "education",
+   "children": [
+    {
+     "name": "schools",
+     "children": [
+      {"name": "Primary", "value": 6300},
+      {"name": "Secondary", "value": 5800},
+      {"name": "Special Education", "value": 3500}
+     ]
+    },
+    {"name": "universities", "value": 7200},
+    {"name": "online courses", "value": 4600}
+   ]
+  },
+  {
+   "name": "entertainment",
+   "value": 9500
+  },
+  {
+   "name": "sports",
+   "children": [
+    {
+     "name": "indoor",
+     "children": [
+      {"name": "Chess", "value": 1200},
+      {"name": "Table Tennis", "value": 1800},
+      {"name": "Bowling", "value": 2300}
+     ]
+    },
+    {
+     "name": "outdoor",
+     "children": [
+      {"name": "Soccer", "value": 8600},
+      {"name": "Basketball", "value": 5400},
+      {"name": "Tennis", "value": 6700}
+     ]
+    },
+    {"name": "e-sports", "value": 3100},
+    {"name": "water sports", "value": 4900}
+   ]
+  },
+  {
+   "name": "technology",
+   "children": [
+    {"name": "AI", "value": 9200},
+    {"name": "Cybersecurity", "value": 7600},
+    {"name": "Robotics", "value": 8400},
+    {"name": "Web Development", "value": 6100}
+   ]
+  },
+  {
+   "name": "finance",
+   "children": [
+    {"name": "Investing", "value": 8500},
+    {"name": "Cryptocurrency", "value": 4200},
+    {"name": "Personal Finance", "value": 5400}
+   ]
+  },
+  {
+   "name": "environment",
+   "children": [
+    {"name": "Climate Change", "value": 7300},
+    {"name": "Renewable Energy", "value": 6200},
+    {"name": "Wildlife Conservation", "value": 5200}
+   ]
+  },
+  {
+   "name": "travel",
+   "value": 6700
+  },
+  {
+   "name": "food",
+   "children": [
+    {"name": "Recipes", "value": 3300},
+    {"name": "Restaurants", "value": 4800},
+    {"name": "Street Food", "value": 2500}
+   ]
+  },
+  {
+   "name": "science",
+   "children": [
+    {"name": "Astronomy", "value": 9100},
+    {"name": "Biology", "value": 7400},
+    {"name": "Physics", "value": 8300},
+    {"name": "Chemistry", "value": 7200},
+    {"name": "Geology", "value": 5100}
+   ]
+  }
+ ]
+}

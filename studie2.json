@@ -1,0 +1,110 @@
+{
+ "name": "root",
+ "children": [
+  {
+   "name": "wellness",
+   "children": [
+    {
+     "name": "diet",
+     "children": [
+      {"name": "Berries", "value": 3200},
+      {"name": "Leafy Greens", "value": 4100},
+      {"name": "Whole Grains", "value": 3700},
+      {"name": "Legumes", "value": 4400}
+     ]
+    },
+    {"name": "exercise", "value": 5400},
+    {"name": "mindfulness", "value": 6100}
+   ]
+  },
+  {
+   "name": "learning",
+   "children": [
+    {
+     "name": "institutions",
+     "children": [
+      {"name": "Elementary", "value": 6300},
+      {"name": "High School", "value": 5800},
+      {"name": "Inclusive Learning", "value": 3500}
+     ]
+    },
+    {"name": "colleges", "value": 7200},
+    {"name": "virtual classes", "value": 4600}
+   ]
+  },
+  {
+   "name": "leisure",
+   "value": 9500
+  },
+  {
+   "name": "athletics",
+   "children": [
+    {
+     "name": "indoor games",
+     "children": [
+      {"name": "Go", "value": 1200},
+      {"name": "Ping Pong", "value": 1800},
+      {"name": "Billiards", "value": 2300}
+     ]
+    },
+    {
+     "name": "outdoor games",
+     "children": [
+      {"name": "Football", "value": 8600},
+      {"name": "Hoops", "value": 5400},
+      {"name": "Racquet Sports", "value": 6700}
+     ]
+    },
+    {"name": "digital competitions", "value": 3100},
+    {"name": "aquatic sports", "value": 4900}
+   ]
+  },
+  {
+   "name": "innovation",
+   "children": [
+    {"name": "Machine Learning", "value": 9200},
+    {"name": "Data Security", "value": 7600},
+    {"name": "Automation", "value": 8400},
+    {"name": "Frontend Design", "value": 6100}
+   ]
+  },
+  {
+   "name": "economy",
+   "children": [
+    {"name": "Stock Market", "value": 8500},
+    {"name": "Blockchain", "value": 4200},
+    {"name": "Budgeting", "value": 5400}
+   ]
+  },
+  {
+   "name": "ecology",
+   "children": [
+    {"name": "Global Warming", "value": 7300},
+    {"name": "Solar & Wind Power", "value": 6200},
+    {"name": "Habitat Protection", "value": 5200}
+   ]
+  },
+  {
+   "name": "adventure",
+   "value": 6700
+  },
+  {
+   "name": "cuisine",
+   "children": [
+    {"name": "Cooking Tips", "value": 3300},
+    {"name": "Dining Out", "value": 4800},
+    {"name": "Local Eats", "value": 2500}
+   ]
+  },
+  {
+   "name": "discovery",
+   "children": [
+    {"name": "Cosmology", "value": 9100},
+    {"name": "Life Sciences", "value": 7400},
+    {"name": "Matter & Energy", "value": 8300},
+    {"name": "Elements & Reactions", "value": 7200},
+    {"name": "Earth Sciences", "value": 5100}
+   ]
+  }
+ ]
+}
